@@ -1,12 +1,16 @@
-Taco Shop Webpage
+# Personal Webpage (HTML)
 
-This project is a simple restaurant webpage built using HTML and CSS.
+This is a simple personal webpage created using HTML.
 
-Features:
-- Navigation menu
-- Taco menu list
-- Basic webpage layout
+## Features
+- About Me section
+- Contact details
+- Basic HTML structure
+- Simple webpage layout
 
-Technologies:
-HTML
-CSS
+## Technologies Used
+- HTML
+
+## How to Run
+1. Download the repository
+2. Open index.html in a browser
